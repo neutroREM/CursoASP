@@ -1,0 +1,6 @@
+C:\Users\farao\source\repos\CursoASP2\Comun\bin\Debug\Comun.dll
+C:\Users\farao\source\repos\CursoASP2\Comun\bin\Debug\Comun.pdb
+C:\Users\farao\source\repos\CursoASP2\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\farao\source\repos\CursoASP2\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\farao\source\repos\CursoASP2\Comun\obj\Debug\Comun.dll
+C:\Users\farao\source\repos\CursoASP2\Comun\obj\Debug\Comun.pdb

@@ -1,0 +1,12 @@
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\Logica.dll
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\Logica.pdb
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\AccesoDatos.dll
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\Comun.dll
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\Comun.pdb
+C:\Users\farao\source\repos\CursoASP2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\farao\source\repos\CursoASP2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\farao\source\repos\CursoASP2\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\farao\source\repos\CursoASP2\Logica\obj\Debug\Logica.dll
+C:\Users\farao\source\repos\CursoASP2\Logica\obj\Debug\Logica.pdb
+C:\Users\farao\source\repos\CursoASP2\Logica\bin\Debug\AccesoDatos.dll.config
